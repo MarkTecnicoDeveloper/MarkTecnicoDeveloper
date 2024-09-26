@@ -1,4 +1,4 @@
-# Hello World! I am Marcos  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+# Hello World! I am Marcos
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/MarkTecnicoDeveloper/MarkTecnicoDeveloper/blob/main/README.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/MarkTecnicoDeveloper/MarkTecnicoDeveloper/blob/main/README.pt-br.md)
