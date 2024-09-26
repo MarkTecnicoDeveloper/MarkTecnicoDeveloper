@@ -6,4 +6,4 @@
 
 ## Sobre mim 💻
 * Estudante de Análise e Desenvolvimento de Sistemas na Fatec Mogi Mirim "Arthur de Azevedo".
-* Desenvolvedora Front-end.
+* Desenvolvedor Front-end.
