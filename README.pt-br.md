@@ -4,6 +4,6 @@
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/MarkTecnicoDeveloper/MarkTecnicoDeveloper/blob/main/README.pt-br.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/MarkTecnicoDeveloper/MarkTecnicoDeveloper/blob/main/README.es.md)
 
-## Sobre mim
+## Sobre mim 💻
 * Estudante de Análise e Desenvolvimento de Sistemas na Fatec Mogi Mirim "Arthur de Azevedo".
 * Desenvolvedora Front-end.
