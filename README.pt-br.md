@@ -10,4 +10,4 @@ Meu nome é Marcos, sou desenvolvedor fullstack há mais de 10 anos, sou autodid
 ## 🌐 Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-rodriguez-414934180/)
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=)](mailto:marktecnico@gmail.com)
-[![WhatsApp](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=)](https://api.whatsapp.com/send?phone=5545991065156&text=Ol%C3%A1%20Marcs!%20Te%20achei%20no%20GitHub!)
+[![WhatsApp](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=)](https://api.whatsapp.com/send?phone=5545991065156&text=Ol%C3%A1%20Marcos!%20Te%20achei%20no%20GitHub!)
