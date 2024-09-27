@@ -13,7 +13,7 @@
 ## 	👨🏻‍💻 About me
 My name is Marcos, I have been a fullstack developer for more than 10 years, I like to discover new technologies and tools, always willing to learn and sharing experiences to be able to grow and advance on this dev path. My start was with the development of desktop applications and then venturing into the world of the internet with web and mobile applications. Going through languages ​​​​such as C#, php, Javascript and various Frameworks
 
-## 💻 Tecnologías y herramientas
+## 💻 Technologies and tools
 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
