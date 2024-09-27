@@ -52,5 +52,5 @@ Me llamo marcos, soy desarrollador fullstack hace mas de 10 años, me gusta desc
 
 <br />
 
-# 📊 GitHub Stats:
+# 📊 Estadísticas de GitHub:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marktecnicodeveloper&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
