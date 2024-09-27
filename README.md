@@ -10,7 +10,7 @@ My name is Marcos, I have been a fullstack developer for more than 10 years, I l
 ## 🌐 Social
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-rodriguez-414934180/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5545991065156&text=Ol%C3%A1%20Lucas!%20Te%20achei%20no%20GitHub!)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5545991065156&text=Hi%20Marcos!%20Im%20here%20from%20GitHub!)
 <!--
 **MarkTecnicoDeveloper/MarkTecnicoDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
