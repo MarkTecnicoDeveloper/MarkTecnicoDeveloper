@@ -53,4 +53,4 @@ Meu nome é Marcos, sou desenvolvedor fullstack há mais de 10 anos, gosto de de
 <br />
 
 # 📊 Estatísticas do GitHub:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marktecnicodeveloper&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkTecnicoDeveloper&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
